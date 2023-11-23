@@ -16,7 +16,7 @@ body, h2, h5, p {
 
 /* Set the background image */
 body {
-    background-image: url('bluehole.jpg'); /* Replace 'background.jpg' with your image file path */
+    background-image: url('park.jpg'); /* Replace 'background.jpg' with your image file path */
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
